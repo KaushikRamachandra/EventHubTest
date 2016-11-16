@@ -1,0 +1,10 @@
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\EventHubSender.exe.config
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\obj\Debug\EventHubSender.csprojResolveAssemblyReference.cache
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\EventHubSender.exe
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\EventHubSender.pdb
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\obj\Debug\EventHubSender.exe
+c:\users\kramachandra\documents\visual studio 2015\Projects\AzureEventHubInteraction\EventHubSender\obj\Debug\EventHubSender.pdb
+C:\Users\kramachandra\Documents\Visual Studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kramachandra\Documents\Visual Studio 2015\Projects\AzureEventHubInteraction\EventHubSender\bin\Debug\Newtonsoft.Json.xml
